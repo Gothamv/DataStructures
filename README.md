@@ -12,4 +12,5 @@ Python implementations of the various Data Structures
     * Basic Queues using deque [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/queues.py)
     * Strict implementation with classes [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/strictlyQueues.py)
   * Circular Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/circularQueues.py)
+  * Double Ended Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/deque.py)
  
