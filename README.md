@@ -13,4 +13,9 @@ Python implementations of the various Data Structures
     * Strict implementation with classes [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/strictlyQueues.py)
   * Circular Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/circularQueues.py)
   * Double Ended Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/deque.py)
+  * Priority Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/priorityQ.py)
  
+**3. Lists**
+  * Linked List
+  * Doubly Linked List
+  * Circular Linked List
