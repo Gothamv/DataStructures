@@ -45,7 +45,7 @@ class CircularQueue:
 		#elements currently present in the queue
 		for _ in range(self.head, self.tail):
 			cqShow.append(cq[_])
-		return cqShow
+		return cqShow             
 
 #Circular Queue Object; Passing the max size as the parameter to the object
 cq = CircularQueue(8)
