@@ -16,6 +16,6 @@ Python implementations of the various Data Structures
   * Priority Queues [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Queues/priorityQ.py)
  
 **3. Lists**
-  * Linked List
+  * Linked List [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Linked%20Lists/singlyLinkedList.py)
   * Doubly Linked List
   * Circular Linked List
