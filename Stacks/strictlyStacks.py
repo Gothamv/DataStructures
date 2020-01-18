@@ -1,28 +1,34 @@
 '''
-A Python implementation of Stacks using classes and
-restricting the operations performed on the stack
-to just two, Push/Pop.
+  A Python implementation of Stacks using classes and
+  restricting the operations performed on the stack
+  to just two, Push/Pop.
 '''
-
 class Stack:
 
-	def __init__(self):
-		self.stack = []
+  def __init__(self):
+    self.stack = []
 
-	def push(self, element):
-		return self.stack.append(element)
+  def push(self, element):
+    return self.stack.append(element)
 
-	def pop(self):
-		if len(self.stack) < 1:
-			return None
-		else:
-			return self.stack.pop()
+  def pop(self):
+    if len(self.stack) < 1:
+      return None
+    else:
+      return self.stack.pop()
 
-	def size(self):
-		return len(self.stack)
+  def size(self):
+    return len(self.stack)
+    
+  def isEmpty(self):
+    return self.stack == []
 
-	def show(self):
-		return self.stack
+  def stackTop(self):
+    if not self.isEmpty():
+      return self.stack[-1]
+
+  def show(self):
+    return self.stack
 
 # Creating a new object of the class
 newStack = Stack()
@@ -42,3 +48,4 @@ newStack.pop()
 newStack.pop()
 print("The Final Stack: ", newStack.show())
 print("The Size of the Stack: ", newStack.size())
+print("The top of the Stack is: ", newStack.stackTop())
