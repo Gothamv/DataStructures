@@ -30,6 +30,8 @@ class Stack:
   def show(self):
     return self.stack
 
+''' Driver Code
+
 # Creating a new object of the class
 newStack = Stack()
 # Using the push() method from the class to add elements into Stack
@@ -49,3 +51,5 @@ newStack.pop()
 print("The Final Stack: ", newStack.show())
 print("The Size of the Stack: ", newStack.size())
 print("The top of the Stack is: ", newStack.stackTop())
+
+'''
