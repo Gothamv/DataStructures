@@ -1,3 +1,4 @@
+#Importing the class Stack from stacks.py
 from stacks import Stack
 def integerToBinary(num: int) -> str:
   #Initialising the Stack Object
@@ -16,3 +17,5 @@ def integerToBinary(num: int) -> str:
 
 #Driver Code
 print(integerToBinary(42069))
+#Verifying if the conversion is right by base 2 of the returned value
+print(int(integerToBinary(42069),2)==42069)
