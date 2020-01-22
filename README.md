@@ -4,8 +4,9 @@ Python implementations of the various Data Structures
 ## Linear Data Structures 
 
 **1. Stacks**
-  * Basic Stacks using Lists [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/stacks.py)
-  * Strict implementation with classes [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/strictlyStacks.py)
+  * Stack Implementation  [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/strictlyStacks.py)
+  * Bracket Balanced using stacks [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/balancedBrackets.py)
+  * Reverse a String using stacks [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/reverseAStringUsingStacks.py)
 
 **2. Queues**
   * Simple Queues
