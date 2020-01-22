@@ -7,6 +7,7 @@ Python implementations of the various Data Structures
   * Stack Implementation  [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/strictlyStacks.py)
   * Bracket Balanced using stacks [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/balancedBrackets.py)
   * Reverse a String using stacks [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/reverseAStringUsingStacks.py)
+  * Integer to binary conversion using stacks [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Stacks/integerToBinary.py)
 
 **2. Queues**
   * Simple Queues
