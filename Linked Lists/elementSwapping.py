@@ -14,7 +14,8 @@ def nodeSwap(self, key1, key2):
 	while curr2 and curr2.data != key2:
 		prev2 = curr2
 		curr2 = curr2.next
-
+		
+	# If keys do not exist
 	if not curr1 or not curr2:
 		return
 	
