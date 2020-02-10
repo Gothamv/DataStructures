@@ -20,7 +20,6 @@ def reverseRecursive(self):
 		return reverse(curr, prev)
 	self.head = reverse(curr=self.head, prev=None)
 
-''' Driver Code
 LinkedList.reverseIterative = reverseIterative
 LinkedList.reverseRecursive = reverseRecursive
 llist = LinkedList()
@@ -32,4 +31,3 @@ llist.reverseIterative()
 print(llist.show())
 llist.reverseRecursive()
 print(llist.show())
-'''

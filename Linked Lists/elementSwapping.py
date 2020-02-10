@@ -31,7 +31,6 @@ def nodeSwap(self, key1, key2):
 	
 	curr1.next, curr2.next = curr2.next, curr1.next
 
-''' Driver Code
 LinkedList.nodeSwap = nodeSwap
 llist = LinkedList()
 llist.append("A")
@@ -40,4 +39,3 @@ llist.append("C")
 llist.append("D")
 llist.nodeSwap("A","B")
 print(llist.show())
-'''
