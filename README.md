@@ -19,5 +19,7 @@ Python implementations of the various Data Structures
  
 **3. Lists**
   * Linked List [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Linked%20Lists/singlyLinkedList.py)
+    * Swapping elements in Linked List [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Linked%20Lists/elementSwapping.py)
+    * Reversing a Linked List [[Code]](https://github.com/Gothamv/DataStructures/blob/master/Linked%20Lists/reverseLinkedList.py)
   * Doubly Linked List
   * Circular Linked List
